@@ -4,7 +4,7 @@ go 1.21
 
 require (
 	github.com/antonmedv/expr v1.15.3
-	github.com/gorilla/websocket v1.5.0
+	github.com/gorilla/websocket v1.5.1
 	github.com/miekg/dns v1.1.56
 	github.com/pion/ice/v2 v2.3.11
 	github.com/pion/interceptor v0.1.22
