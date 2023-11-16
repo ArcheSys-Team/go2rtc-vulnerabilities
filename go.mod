@@ -7,13 +7,13 @@ require (
 	github.com/gorilla/websocket v1.5.0
 	github.com/miekg/dns v1.1.56
 	github.com/pion/ice/v2 v2.3.11
-	github.com/pion/interceptor v0.1.22
-	github.com/pion/rtcp v1.2.10
-	github.com/pion/rtp v1.8.2
+	github.com/pion/interceptor v0.1.25
+	github.com/pion/rtcp v1.2.12
+	github.com/pion/rtp v1.8.3
 	github.com/pion/sdp/v3 v3.0.6
-	github.com/pion/srtp/v2 v2.0.17
+	github.com/pion/srtp/v2 v2.0.18
 	github.com/pion/stun v0.6.1
-	github.com/pion/webrtc/v3 v3.2.21
+	github.com/pion/webrtc/v3 v3.2.23
 	github.com/rs/zerolog v1.31.0
 	github.com/sigurn/crc16 v0.0.0-20211026045750-20ab5afb07e3
 	github.com/sigurn/crc8 v0.0.0-20220107193325-2243fe600f9f
