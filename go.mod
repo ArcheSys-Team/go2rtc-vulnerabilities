@@ -1,4 +1,4 @@
-module github.com/AlexxIT/go2rtc
+module github.com/ArcheSys-Team/go2rtc-vulnerabilities
 
 go 1.21
 
